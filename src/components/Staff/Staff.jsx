@@ -6,7 +6,7 @@ import Sanjay from '../../../public/MsgDesk/Manager.png'
 import Suryansh from '../../../public/MsgDesk/Directer.jpg'
 import Nanha from '../../../public/Staff/Nanha_Lal.png'
 import Mahmood from '../../../public/Staff/Mahmood.jpg'
-import Sanjay from '../../../public/Staff/Sanjay.jpg'
+import SanjayRaj from '../../../public/Staff/Sanjay.jpg'
 import Dummy from '../../../src/assets/teacher.png'
 
 const staffMembers = [
@@ -20,7 +20,7 @@ const staffMembers = [
     id: 2,
     name: "Sanjay Kumar",
     qualification: "M.A. (Economics)",
-    image: Sanjay,
+    image: SanjayRaj,
   },
   {
     id: 3,
