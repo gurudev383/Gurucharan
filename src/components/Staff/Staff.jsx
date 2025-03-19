@@ -4,6 +4,9 @@ import { useState } from "react";
 import Naveen from '../../../src/assets/Principal.png'
 import Sanjay from '../../../public/MsgDesk/Manager.png'
 import Suryansh from '../../../public/MsgDesk/Directer.jpg'
+import Nanha from '../../../public/Staff/Nanha_Lal.png'
+import Mahmood from '../../../public/Staff/Mahmood.jpg'
+import Sanjay from '../../../public/Staff/Sanjay.jpg'
 import Dummy from '../../../src/assets/teacher.png'
 
 const staffMembers = [
@@ -29,7 +32,7 @@ const staffMembers = [
     id: 4,
     name: "Nanha Lal",
     qualification: "B.Ed. (English)",
-    image: Dummy,
+    image: Nanha,
   },
   {
     id: 5,
@@ -41,7 +44,13 @@ const staffMembers = [
     id: 6,
     name: "Mahmood Ali",
     qualification: "B.Ed. (SST)",
-    image: Dummy,
+    image: Mahmood,
+  },
+  {
+    id: 7,
+    name: "Sanjay Raj",
+    qualification: "B.Ed. (SST)",
+    image: Sanjay,
   },
 ];
 

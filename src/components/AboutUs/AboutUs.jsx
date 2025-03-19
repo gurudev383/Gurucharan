@@ -58,7 +58,7 @@ export function About() {
 
 
 
-import SchoolImage from "../../../public/images/School.jpg"; // Replace with actual image path
+import SchoolImage from "../../../public/images/School.jpg"; 
 
 export function EstablishedYear() {
   return (
