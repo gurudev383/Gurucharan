@@ -49,7 +49,7 @@ const staffMembers = [
   {
     id: 7,
     name: "Sanjay Raj",
-    qualification: "B.Ed. (SST)",
+    qualification: "B.A",
     image: SanjayRaj,
   },
 ];
