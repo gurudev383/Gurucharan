@@ -415,7 +415,7 @@ const students = [
   },
   {
     name: "Ansh Srivastava",
-    grade: "Class 8",
+    grade: "Class 10",
     image: Ansh,
     description: "Very good at drawing and loves to play football."
   }
@@ -456,17 +456,21 @@ export function OurPride(){
           Celebrating our outstanding student who make us proud.
         </p>
 
-        <div className="max-w-lg   mx-auto bg-white p-6 rounded-lg shadow-lg">
+        <div className="max-w-lg d-flex   mx-auto bg-white p-6 rounded-lg shadow-lg">
+         <div className="flex justify-center   h-1/2">
           <img
             src={Chotu}
             alt="Pride"
-            className="w-[100%] h-80 object-center  rounded-lg"
+            className="w-[80%] h-80 object-center   rounded-lg"
           />
-          <h3 className="text-xl font-bold text-gray-700 mt-4">Anubhav Srivastava</h3>
+          </div>
+          <div className=" justify-center   h-[50%]">
+          <h3 className="text-xl font-bold text-gray-700 mt-4">Anubhav Srivastava</h3> <br/>
           <p className="text-gray-600 text-xl font-semibold mt-2">  🏆 Navodaya Student</p>
           <p className="text-gray-500 mt-2">
             Anubhav has made our school proud by qualifying the Navodaya Entrance Exam, showcasing his acedmic brilliance.
           </p>
+          </div>  
         </div>
       </div>
     </section>
