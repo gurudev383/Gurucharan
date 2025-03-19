@@ -170,7 +170,7 @@ const PrincipalMessage = () => {
             className="w-64 h-64 object-cover rounded-lg shadow-lg"
           />
           <div className="bg-blue-600 text-white text-center py-2 rounded-b-lg">
-            <strong>Shri Naveen Kumar Pandy</strong>
+            <strong>Shri Naveen Kumar Pandey</strong>
           </div>
         </div>
 
