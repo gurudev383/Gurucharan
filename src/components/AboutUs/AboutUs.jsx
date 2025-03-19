@@ -13,7 +13,7 @@ export function About() {
       <div className="md:w-1/2 flex justify-center md:justify-start">
         <img
           src={Vision} // Replace with actual image URL
-          alt="स्कूल "
+          alt=""
           className="w-[60%] max-w-sm md:max-w-md lg:max-w-lg rounded-xl shadow-lg object-cover"
         />
       </div>
