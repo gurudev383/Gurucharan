@@ -128,7 +128,7 @@ const Registration = () => {
             <div className="flex items-center border border-black rounded-lg p-3 bg-white">
               <FaCalendar className="text-blue-800 mr-3" />
               <input
-                type="date"
+                type="text"
                 name="dateofbirth"
                 value={formData.dateofbirth}
                 onChange={handleChange}
