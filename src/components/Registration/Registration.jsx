@@ -132,6 +132,7 @@ const Registration = () => {
                 name="dateofbirth"
                 value={formData.dateofbirth}
                 onChange={handleChange}
+                placeholder="Date of Birth"
                 className="w-full outline-none bg-transparent text-black placeholder-gray-500"
                 required
               />
