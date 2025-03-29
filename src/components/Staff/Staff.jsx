@@ -7,16 +7,59 @@ import Suryansh from "../../../public/MsgDesk/Directer.jpg";
 import Nanha from "../../../public/Staff/Nanha_Lal.png";
 import Mahmood from "../../../public/Staff/Mahmood.jpg";
 import SanjayRaj from "../../../public/Staff/Sanjay.jpg";
-import Dummy from "../../../src/assets/teacher.png";
+// import Dummy from "../../../src/assets/teacher.png";
+import Rakesh from "../../../public/Staff/Rakesh.jpg";
+import Avdesh from "../../../public/Staff/Avdheah.jpg";
 
 const staffMembers = [
-  { id: 1, name: "Naveen Kumar Pandey", qualification: "B.Ed. (English)", image: Naveen },
-  { id: 2, name: "Sanjay Kumar", qualification: "M.A. (Economics)", image: Sanjay },
-  { id: 3, name: "Suryansh Srivastava", qualification: "M.Sc. (Agronomy)", image: Suryansh },
-  { id: 4, name: "Nanha Lal", qualification: "B.Ed. (English)", image: Nanha },
-  { id: 5, name: "Rakesh Kumar Maurya", qualification: "M.Sc. (Math)", image: Dummy },
-  { id: 6, name: "Mahmood Ali", qualification: "B.Ed. (SST)", image: Mahmood },
-  { id: 7, name: "Sanjay Raj", qualification: "B.A", image: SanjayRaj },
+  {
+    id: 1,
+    name: "Naveen Kumar Pandey",
+    qualification: "B.Ed. (English)",
+    image: Naveen
+  },
+  {
+    id: 2,
+    name: "Sanjay Kumar",
+    qualification: "M.A. (Economics)",
+    image: Sanjay
+  },
+  {
+    id: 3,
+    name: "Suryansh Srivastava",
+    qualification: "M.Sc. (Agronomy)",
+    image: Suryansh
+  },
+  {
+    id: 4,
+    name: "Nanha Lal",
+    qualification: "B.Ed. (English)",
+    image: Nanha
+  },
+  {
+    id: 5,
+    name: "Rakesh Kumar Maurya",
+    qualification: "M.Sc. (Math)",
+    image: Rakesh
+  },
+  {
+    id: 6,
+    name: "Mahmood Ali",
+    qualification: "B.Ed. (SST)",
+    image: Mahmood
+  },
+  {
+    id: 7,
+    name: "Sanjay Raj",
+    qualification: "B.A",
+    image: SanjayRaj
+  },
+  {
+    id: 8,
+    name: "Avdhesh Kumar",
+    qualification: "B.A",
+    image: Avdesh
+  },
 ];
 
 export default function Staff() {
